@@ -1,0 +1,9 @@
+{
+  "name": "backend-notas",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^12.0.0"
+  }
+}
